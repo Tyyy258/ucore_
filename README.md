@@ -1,2 +1,2 @@
-# ucore_C
+# ucore_
 The kernel of ucore
